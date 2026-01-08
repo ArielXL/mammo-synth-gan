@@ -1,0 +1,13 @@
+before_split: TRAIN
+after_split: TRAIN
+before_image_abnormality_id: 1
+after_image_abnormality_id: 1
+breast_density: 1
+mass_shape: ROUND
+pathology: MALIGNANT
+view: CC
+mass_margins: SPICULATED
+assessment: 5
+size_before_px: 34472
+size_after_px: 92118
+growth_pct: 167.23

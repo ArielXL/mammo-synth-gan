@@ -1,0 +1,13 @@
+before_split: TRAIN
+after_split: TRAIN
+before_image_abnormality_id: 1
+after_image_abnormality_id: 1
+breast_density: 1
+mass_shape: LOBULATED
+pathology: MALIGNANT
+view: CC
+mass_margins: CIRCUMSCRIBED
+assessment: 5
+size_before_px: 98746
+size_after_px: 207462
+growth_pct: 110.1

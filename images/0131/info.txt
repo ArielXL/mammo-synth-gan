@@ -1,0 +1,13 @@
+before_split: TEST
+after_split: TEST
+before_image_abnormality_id: 1
+after_image_abnormality_id: 1
+breast_density: 2
+mass_shape: ROUND
+pathology: MALIGNANT
+view: CC
+mass_margins: CIRCUMSCRIBED
+assessment: 4
+size_before_px: 18046
+size_after_px: 74322
+growth_pct: 311.85

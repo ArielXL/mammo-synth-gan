@@ -1,0 +1,13 @@
+before_split: TEST
+after_split: TEST
+before_image_abnormality_id: 1
+after_image_abnormality_id: 1
+breast_density: 4
+mass_shape: ARCHITECTURAL_DISTORTION
+pathology: BENIGN
+view: CC
+mass_margins: SPICULATED
+assessment: 4
+size_before_px: 27382
+size_after_px: 176183
+growth_pct: 543.43

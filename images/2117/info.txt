@@ -1,0 +1,13 @@
+before_split: TRAIN
+after_split: TRAIN
+before_image_abnormality_id: 1
+after_image_abnormality_id: 1
+breast_density: 3
+mass_shape: IRREGULAR
+pathology: MALIGNANT
+view: MLO
+mass_margins: ILL_DEFINED
+assessment: 4
+size_before_px: 18576
+size_after_px: 63221
+growth_pct: 240.34

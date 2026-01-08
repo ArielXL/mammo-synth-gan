@@ -1,0 +1,13 @@
+before_split: TEST
+after_split: TEST
+before_image_abnormality_id: 1
+after_image_abnormality_id: 1
+breast_density: 2
+mass_shape: IRREGULAR
+pathology: MALIGNANT
+view: MLO
+mass_margins: ILL_DEFINED
+assessment: 4
+size_before_px: 28921
+size_after_px: 168491
+growth_pct: 482.59

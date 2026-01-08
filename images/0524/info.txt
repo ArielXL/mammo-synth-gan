@@ -1,0 +1,13 @@
+before_split: TRAIN
+after_split: TRAIN
+before_image_abnormality_id: 2
+after_image_abnormality_id: 1
+breast_density: 2
+mass_shape: ARCHITECTURAL_DISTORTION
+pathology: MALIGNANT
+view: CC
+mass_margins: SPICULATED
+assessment: 4
+size_before_px: 45942
+size_after_px: 86803
+growth_pct: 88.94

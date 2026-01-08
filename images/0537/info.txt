@@ -1,0 +1,13 @@
+before_split: TRAIN
+after_split: TRAIN
+before_image_abnormality_id: 1
+after_image_abnormality_id: 1
+breast_density: 2
+mass_shape: ASYMMETRIC_BREAST_TISSUE
+pathology: MALIGNANT
+view: CC
+mass_margins: ILL_DEFINED
+assessment: 5
+size_before_px: 656650
+size_after_px: 918320
+growth_pct: 39.85

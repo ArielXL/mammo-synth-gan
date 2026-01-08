@@ -1,0 +1,13 @@
+before_split: TEST
+after_split: TEST
+before_image_abnormality_id: 1
+after_image_abnormality_id: 1
+breast_density: 3
+mass_shape: OVAL
+pathology: BENIGN
+view: MLO
+mass_margins: ILL_DEFINED
+assessment: 4
+size_before_px: 55785
+size_after_px: 80253
+growth_pct: 43.86

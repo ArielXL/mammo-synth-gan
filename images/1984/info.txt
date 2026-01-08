@@ -1,0 +1,13 @@
+before_split: TRAIN
+after_split: TRAIN
+before_image_abnormality_id: 1
+after_image_abnormality_id: 1
+breast_density: 3
+mass_shape: ARCHITECTURAL_DISTORTION
+pathology: BENIGN
+view: MLO
+mass_margins: ILL_DEFINED
+assessment: 4
+size_before_px: 71101
+size_after_px: 89475
+growth_pct: 25.84

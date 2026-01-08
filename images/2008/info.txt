@@ -1,0 +1,13 @@
+before_split: TRAIN
+after_split: TRAIN
+before_image_abnormality_id: 1
+after_image_abnormality_id: 1
+breast_density: 3
+mass_shape: FOCAL_ASYMMETRIC_DENSITY
+pathology: BENIGN
+view: MLO
+mass_margins: NAN
+assessment: 2
+size_before_px: 145511
+size_after_px: 203093
+growth_pct: 39.57

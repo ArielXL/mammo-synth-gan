@@ -1,0 +1,13 @@
+before_split: TRAIN
+after_split: TRAIN
+before_image_abnormality_id: 1
+after_image_abnormality_id: 1
+breast_density: 1
+mass_shape: OVAL
+pathology: BENIGN
+view: MLO
+mass_margins: CIRCUMSCRIBED
+assessment: 4
+size_before_px: 52613
+size_after_px: 107271
+growth_pct: 103.89

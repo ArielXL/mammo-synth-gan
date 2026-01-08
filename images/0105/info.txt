@@ -1,0 +1,13 @@
+before_split: TEST
+after_split: TEST
+before_image_abnormality_id: 1
+after_image_abnormality_id: 1
+breast_density: 2
+mass_shape: LOBULATED
+pathology: BENIGN
+view: MLO
+mass_margins: CIRCUMSCRIBED
+assessment: 3
+size_before_px: 31550
+size_after_px: 41549
+growth_pct: 31.69

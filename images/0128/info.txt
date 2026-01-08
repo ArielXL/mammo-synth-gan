@@ -1,0 +1,13 @@
+before_split: TEST
+after_split: TEST
+before_image_abnormality_id: 1
+after_image_abnormality_id: 1
+breast_density: 2
+mass_shape: OVAL
+pathology: MALIGNANT
+view: MLO
+mass_margins: MICROLOBULATED
+assessment: 5
+size_before_px: 75295
+size_after_px: 112980
+growth_pct: 50.05

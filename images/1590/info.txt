@@ -1,0 +1,13 @@
+before_split: TRAIN
+after_split: TRAIN
+before_image_abnormality_id: 1
+after_image_abnormality_id: 1
+breast_density: 2
+mass_shape: OVAL
+pathology: BENIGN
+view: CC
+mass_margins: MICROLOBULATED
+assessment: 0
+size_before_px: 45250
+size_after_px: 177718
+growth_pct: 292.75

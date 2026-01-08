@@ -1,0 +1,13 @@
+before_split: TEST
+after_split: TEST
+before_image_abnormality_id: 1
+after_image_abnormality_id: 1
+breast_density: 3
+mass_shape: OVAL
+pathology: BENIGN
+view: CC
+mass_margins: OBSCURED
+assessment: 0
+size_before_px: 79605
+size_after_px: 100765
+growth_pct: 26.58
