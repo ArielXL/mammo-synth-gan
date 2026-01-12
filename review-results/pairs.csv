@@ -1,0 +1,11 @@
+path_img1,path_img2,result
+../../cgan/runs/exp1_baseline/exp1_baseline/test_results/0001/before_image.png,../../cgan/runs/exp1_baseline/exp1_baseline/test_results/0001/generated_mammo.png,
+../../cgan/runs/exp1_baseline/exp1_baseline/test_results/0006/before_image.png,../../cgan/runs/exp1_baseline/exp1_baseline/test_results/0006/generated_mammo.png,
+../../cgan/runs/exp1_baseline/exp1_baseline/test_results/0014/before_image.png,../../cgan/runs/exp1_baseline/exp1_baseline/test_results/0014/generated_mammo.png,
+../../cgan/runs/exp1_baseline/exp1_baseline/test_results/0015/before_image.png,../../cgan/runs/exp1_baseline/exp1_baseline/test_results/0015/generated_mammo.png,
+../../cgan/runs/exp1_baseline/exp1_baseline/test_results/0026/before_image.png,../../cgan/runs/exp1_baseline/exp1_baseline/test_results/0026/generated_mammo.png,
+../../cgan/runs/exp1_baseline/exp1_baseline/test_results/0032/before_image.png,../../cgan/runs/exp1_baseline/exp1_baseline/test_results/0032/generated_mammo.png,
+../../cgan/runs/exp1_baseline/exp1_baseline/test_results/0036/before_image.png,../../cgan/runs/exp1_baseline/exp1_baseline/test_results/0036/generated_mammo.png,
+../../cgan/runs/exp1_baseline/exp1_baseline/test_results/0037/before_image.png,../../cgan/runs/exp1_baseline/exp1_baseline/test_results/0037/generated_mammo.png,
+../../cgan/runs/exp1_baseline/exp1_baseline/test_results/0040/before_image.png,../../cgan/runs/exp1_baseline/exp1_baseline/test_results/0040/generated_mammo.png,
+../../cgan/runs/exp1_baseline/exp1_baseline/test_results/0043/before_image.png,../../cgan/runs/exp1_baseline/exp1_baseline/test_results/0043/generated_mammo.png,
